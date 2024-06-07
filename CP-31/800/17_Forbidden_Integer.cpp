@@ -76,5 +76,5 @@ ii. For every other case, print YES and for printing numbers print n / 2 - 1 tim
 
 e.g
 n = 7, k = 3, x = 1
-Print 2 times (n / 2 - 1) 2 and print one time 3
+Print 2 times (n / 2 - 1) 2 and print one time 3.
 */
