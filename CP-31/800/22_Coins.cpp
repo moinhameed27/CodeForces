@@ -26,5 +26,5 @@ int main()
 ---------------------------------------------------------------------------------------------------------------------------------
 If n is even, whatever k is given, we can add them to make n
 2x + ky = n
-If n is odd, we can only make odd n when k is odd otherwise if k is even numbers will always be evem
+If n is odd, we can only make odd n when k is odd otherwise if k is even numbers will always be evemm.
 */
