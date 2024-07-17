@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-using namespace std;
+using namespace std; 
 
 long long solve(vector<int> &v, int a, int b, int n)
 {
