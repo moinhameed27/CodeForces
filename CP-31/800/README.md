@@ -1,0 +1,36 @@
+# CP-31/800
+
+
+| Name       | Problem Link                       | Solution Link                      |
+|--------------------|------------------------------------|-----------------------------------|
+| 1. Halloumi Boxes (A)         | [Problem](https://codeforces.com/problemset/problem/1903/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/01_Halloumi_Boxes.cpp)              |
+| 2. Line Trip (A)         | [Problem](https://codeforces.com/problemset/problem/1901/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/02_Line_Trip.cpp)              |
+| 3. Cover in Water (A)         | [Problem](https://codeforces.com/problemset/problem/1900/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/03_Cover_in_Water.cpp)              |
+| 4. Game with Integers (A)         | [Problem](https://codeforces.com/problemset/problem/1899/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/04_Game_with_Integers.cpp)              |
+| 5. Jagged Swaps (A)         | [Problem](https://codeforces.com/problemset/problem/1896/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/05_Jagged_Swaps.cpp)              |
+| 6. Doremy's Paint 3 (A)         | [Problem](https://codeforces.com/problemset/problem/1890/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/06_Doremys_Paint_3.cpp)              |
+| 7. Don't Try to Count (A)         | [Problem](https://codeforces.com/problemset/problem/1881/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/07_Dont_Try_to_Count.cpp)              |
+| 8. How Much Does Daytona Cost? (A)         | [Problem](https://codeforces.com/problemset/problem/1878/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/08_How_Much_Does_Daytona_Cost.cpp)              |
+| 9. Goals of Victory (A)         | [Problem](https://codeforces.com/problemset/problem/1877/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/09_Goals_of_Victory.cpp)              |
+| 10. Target Practice (C)         | [Problem](https://codeforces.com/problemset/problem/1873/C)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/10_Target_Practice.cpp)              |
+| 11. Ambitious Kid (A)         | [Problem](https://codeforces.com/problemset/problem/1866/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/11_Ambitious_Kid.cpp)              |
+| 12. Sequence Game (B)         | [Problem](https://codeforces.com/problemset/problem/1862/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/12_Sequence_Game.cpp)              |
+| 13. United We Stand (A)          | [Problem](https://codeforces.com/problemset/problem/1859/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/13_United_we_Stand.cpp)              |
+| 14. Buttons (A)          | [Problem](https://codeforces.com/problemset/problem/1858/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/14_Buttons.cpp)              |
+| 15. Array Coloring (A)          | [Problem](https://codeforces.com/problemset/problem/1857/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/15_Array_Coloring.cpp)              |
+| 16. Desorting (A)          | [Problem](https://codeforces.com/problemset/problem/1853/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/16_Desorting.cpp)              |
+| 17. Forbidden Integer (A)          | [Problem](https://codeforces.com/problemset/problem/1845/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/17_Forbidden_Integer.cpp)              |
+| 18. Grasshopper on a Line (A)          | [Problem](https://codeforces.com/problemset/problem/1837/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/18_Grasshopper_on_a_Line.cpp)              |
+| 19. Unit Array (A)          | [Problem](https://codeforces.com/problemset/problem/1834/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/19_Unit_Array.cpp)              |
+| 20. Twin Permutations (A)          | [Problem](https://codeforces.com/problemset/problem/1831/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/20_Twin_Permutations.cpp)              |
+| 21. Blank Space (B)          | [Problem](https://codeforces.com/problemset/problem/1829/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/21_Blank_Space.cpp)              |
+| 22. Coins (A)          | [Problem](https://codeforces.com/problemset/problem/1814/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/22_Coins.cpp)              |
+| 23. Walking Master (A)          | [Problem](https://codeforces.com/problemset/problem/1806/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/23_Walking_Master.cpp)              |
+| 24. We Need the Zero (A)          | [Problem](https://codeforces.com/problemset/problem/1805/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/24_We_Need_The_Zero.cpp)              |
+| 25. Prepend and Append (C)          | [Problem](https://codeforces.com/problemset/problem/1791/C)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/25_Prepend_And_Append.cpp)              |
+| 26. Serval and Mocha's Array (A)          | [Problem](https://codeforces.com/problemset/problem/1789/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/26_Serval_and_Mocha_Array.cpp)              |
+| 27. One and Two (A)          | [Problem](https://codeforces.com/problemset/problem/1788/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/27_One_and_Two.cpp)              |
+| 28. Make it Beautiful (A)          | [Problem](https://codeforces.com/problemset/problem/1783/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/28_Make_It_Beautiful.cpp)              |
+| 29. Everybody Likes Good Arrays! (A)         | [Problem](https://codeforces.com/problemset/problem/1777/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/29_Everybody_Likes_Good_Arrays.cpp)              |
+| 30. Extremely Round (A)          | [Problem](https://codeforces.com/problemset/problem/1766/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/30_Extremely_Round.cpp)              |
+| 31. Two Permutations (A)          | [Problem](https://codeforces.com/problemset/problem/1761/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/800/31_Two_Permutations.cpp)              |
