@@ -20,3 +20,4 @@
 | 15. Make It Increasing (B)         | [Problem](https://codeforces.com/problemset/problem/1675/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/15_Make_It_Increasing.cpp)              |
 | 16. Deletive Editing (D)         | [Problem](https://codeforces.com/problemset/problem/1666/D)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/16_Deletive_Editing.cpp)              |
 | 17. Array Cloning Technique (B)         | [Problem](https://codeforces.com/problemset/problem/1665/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/17_Array_Cloning_Technique.cpp)              |
+| 18. Make AP (B)         | [Problem](https://codeforces.com/problemset/problem/1624/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/18_Make_AP.cpp)              |
