@@ -22,3 +22,4 @@
 | 17. Array Cloning Technique (B)         | [Problem](https://codeforces.com/problemset/problem/1665/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/17_Array_Cloning_Technique.cpp)              |
 | 18. Make AP (B)         | [Problem](https://codeforces.com/problemset/problem/1624/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/18_Make_AP.cpp)              |
 | 19. Odd Grasshopper (B)         | [Problem](https://codeforces.com/problemset/problem/1607/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/19_Odd_Grasshopper.cpp)              |
+| 20. AB Balance (A)         | [Problem](https://codeforces.com/problemset/problem/1606/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/20_AB_Balance.cpp)              |
