@@ -27,3 +27,4 @@
 | 22. Luntik and Subsequences (B)         | [Problem](https://codeforces.com/problemset/problem/1582/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/22_Luntik_and_Subsequences.cpp)              |
 | 23. Mocha and Math (A)         | [Problem](https://codeforces.com/problemset/problem/1559/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/23_Mocha_and_Math.cpp)              |
 | 24. Exciting Bets (A)         | [Problem](https://codeforces.com/problemset/problem/1543/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/24_Exciting_Bets.cpp)              |
+| 25. Bad Boy (B)         | [Problem](https://codeforces.com/problemset/problem/1537/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/25_Bad_Boy.cpp)              |
