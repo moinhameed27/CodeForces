@@ -25,3 +25,4 @@
 | 20. AB Balance (A)         | [Problem](https://codeforces.com/problemset/problem/1606/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/20_AB_Balance.cpp)              |
 | 21. Make it Divisible by 25 (B)         | [Problem](https://codeforces.com/problemset/problem/1593/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/21_Make_it_Divisible_by_25.cpp)              |
 | 22. Luntik and Subsequences (B)         | [Problem](https://codeforces.com/problemset/problem/1582/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/22_Luntik_and_Subsequences.cpp)              |
+| 23. Mocha and Math (A)         | [Problem](https://codeforces.com/problemset/problem/1559/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/23_Mocha_and_Math.cpp)              |
