@@ -28,3 +28,5 @@
 | 23. Mocha and Math (A)         | [Problem](https://codeforces.com/problemset/problem/1559/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/23_Mocha_and_Math.cpp)              |
 | 24. Exciting Bets (A)         | [Problem](https://codeforces.com/problemset/problem/1543/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/24_Exciting_Bets.cpp)              |
 | 25. Bad Boy (B)         | [Problem](https://codeforces.com/problemset/problem/1537/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/25_Bad_Boy.cpp)              |
+| 26. Odd Divisor (A)         | [Problem](https://codeforces.com/problemset/problem/1475/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/26_Odd_Divisor.exe)              |
+| 27. Strange Partition (A)         | [Problem](https://codeforces.com/problemset/problem/1471/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/27_Strange_Partition.cpp)              |
