@@ -32,3 +32,5 @@
 | 27. Strange Partition (A)         | [Problem](https://codeforces.com/problemset/problem/1471/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/27_Strange_Partition.cpp)              |
 | 28. Sum of Medians (B)         | [Problem](https://codeforces.com/problemset/problem/1440/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/28_Sum_of_Medians.cpp)              |
 | 29. Three Indices (A)         | [Problem](https://codeforces.com/problemset/problem/1380/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/29_Three_Indices.cpp)              |
+| 30. 01 Game (B)         | [Problem](https://codeforces.com/problemset/problem/1373/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/30_01_Game.cpp)              |
+| 31. Multiply by 2, divide by 6 (B)         | [Problem](https://codeforces.com/problemset/problem/1374/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/31_Multiply_by_2_divide_by_6.cpp)              |
