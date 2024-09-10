@@ -31,3 +31,4 @@
 | 26. Odd Divisor (A)         | [Problem](https://codeforces.com/problemset/problem/1475/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/26_Odd_Divisor.exe)              |
 | 27. Strange Partition (A)         | [Problem](https://codeforces.com/problemset/problem/1471/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/27_Strange_Partition.cpp)              |
 | 28. Sum of Medians (B)         | [Problem](https://codeforces.com/problemset/problem/1440/B)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/28_Sum_of_Medians.cpp)              |
+| 29. Three Indices (A)         | [Problem](https://codeforces.com/problemset/problem/1380/A)                | [Solution](https://github.com/moinhameed27/CodeForces/blob/main/CP-31/900/29_Three_Indices.cpp)              |
